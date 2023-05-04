@@ -19,6 +19,6 @@ Lua (a lot)
 
 Python (medium)
 
-##Languages I'm learning or am interested in:
+## Languages I'm learning or am interested in:
 
 C++ (learning)
