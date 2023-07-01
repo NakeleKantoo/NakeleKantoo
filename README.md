@@ -1,5 +1,6 @@
-# Leonna
-A brief view of me
+## What am I focusing on:
+[This game](https://github.com/NakeleKantoo/FilhoDaPuta)
+
 ## What I do:
 I mainly develop for fun.
 
@@ -22,3 +23,5 @@ Python (medium)
 ## Languages I'm learning or am interested in:
 
 C++ (learning)
+
+Rust (very interested)
