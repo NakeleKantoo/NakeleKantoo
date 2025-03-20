@@ -1,29 +1,15 @@
-## What am I focusing on:
-[This game](https://github.com/NakeleKantoo/CacaPalavras)
-
 ## What I do:
-I mainly develop for fun.
-
-My main focus is to make some tools that can help other people.
+I mainly develop for fun.\
+My main focus is to make some tools that can help other people.\
+Also I make mobile games for my own liking, not to sell,\
+I make things to help me and if it suits you, feel free to use it!
 
 ## Who am I:
-I'm a 18yo Brazilian Girl that likes coding a little too much. <3
-
+I'm a 19yo Brazilian Girl that likes coding a little too much. <3\
 I'm always looking to improve and learn new things!
 
-## Languages that I Know:
-VB.Net (good)
+## Languages I'm familiar with:
+C#, Java, Javascript, Typescript, VB.Net, Python, Lua, HTML+CSS
 
-C# (okay)
-
-Lua (good)
-
-Python (okay)
-
-JS (okay)
-
-## Languages I'm learning or am interested in:
-
-Perl (learning)
-
-Go (very interested)
+## Languages I'm interested in:
+Rust, Go, Perl, Ruby
